@@ -1,4 +1,4 @@
-# FastAPIandDBMS
+# Electronic Medical Records - FastAPIandDBMS
 # EMR Database Design & FastAPI Integration (Guidance from https://www.facebook.com/aivietnam.edu.vn)
 
 ## 🧠 Overview
