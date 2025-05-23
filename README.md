@@ -15,7 +15,7 @@ Integration between Pydantic models and SQLAlchemy ORM.
 These projects serve as stepping stones to prepare for more complex system design.
 
 🔸 Major Project: EMR Database Design
-Project Title:
+Project title:
 Design AI Agent for Electronic Medical Records(EMR)
 
 1.📌 Problem Statement
